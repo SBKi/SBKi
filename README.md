@@ -23,4 +23,4 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/></a>
 <h2> 😀 Most Used languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBKi&layout=compact"><br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBKi&show_icons=true&theme=radical)
+
