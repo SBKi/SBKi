@@ -23,7 +23,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Slack-6A0888?style=flat-square&logo=slack&logoColor=white"/></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/VScode-0040FF?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/VueJS-000000?style=flat-square&logo=vuejs&logoColor=#4FC08D"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=vuejs&logoColor=4FC08D"/></a>
 <h2> 😀 Most Used languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBKi&layout=compact"><br><br>
 
