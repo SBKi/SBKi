@@ -1,6 +1,6 @@
+[![Hits](https://hits.sh/github.com/SBKi.svg?label=count&color=ff8560)](https://hits.sh/github.com/SBKi/)
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=250&section=header&text=SBKi&fontSize=80&theme=radical)
 
-[![Hits](https://hits.sh/github.com/SBKi.svg?label=count&color=ff8560)](https://hits.sh/github.com/SBKi/)
 <h2> 💪 My Tech Stack</h2>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-F05138?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/git-151515?style=flat-square&logo=git&logoColor=white"/></a>
