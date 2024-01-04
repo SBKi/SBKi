@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=250&section=header&text=SBKi&fontSize=80&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frgr3287%2Fhit-counter&count_bg=%233D71C8&title_bg=%23555555&icon=sourcegraph.svg&icon_color=%23E7E7E7&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/SBKi.svg?label=count&color=ff8560)](https://hits.sh/github.com/SBKi/)
 <h2> 💪 My Tech Stack</h2>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-F05138?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/git-151515?style=flat-square&logo=git&logoColor=white"/></a>
